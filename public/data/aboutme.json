@@ -1,0 +1,14 @@
+[
+  {
+    "title": "About me",
+    "className": "intro-me"
+  },
+  {
+    "title": "Software Engineer",
+    "main": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies lobortis metus, eget venenatis dolor maximus non. Etiam scelerisque nec lorem at fermentum. Integer augue lacus, venenatis quis placerat in, facilisis ut justo. Suspendisse pulvinar rhoncus arcu sit amet fermentum."
+  },
+  {
+    "title": "Computer Student",
+    "main": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies lobortis metus, eget venenatis dolor maximus non. Etiam scelerisque nec lorem at fermentum."
+  }
+]

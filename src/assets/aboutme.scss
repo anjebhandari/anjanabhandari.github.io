@@ -1,0 +1,38 @@
+@import './index.scss';
+
+.aboutme-row{
+  background-color: $softWhite;
+  padding: 50px;
+  height: 100vh;
+  align-content: center;
+}
+
+.aboutme-col{
+  width:calc(100% / 3);
+  text-align: center;
+}
+
+.aboutme-main{
+  padding:50px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.intro-me{
+  // font-family: "Gilroy", sans-serif;
+
+  @import  url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+  font-family: 'Caveat', cursive;
+
+  // font-family: 'Great Vibes', cursive;  
+  // @import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+
+
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.aboutme-me{
+  text-align: left;
+  padding-top: 10px;
+}

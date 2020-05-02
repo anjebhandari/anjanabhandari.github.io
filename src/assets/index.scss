@@ -1,0 +1,63 @@
+@import './colors';
+
+main{
+  background-color: $primaryBackground;
+}
+
+.section{
+  // background-color: $secondaryBackground;
+}
+
+.text-primary{
+  color: $textPrimary;
+}
+
+.decoration-none{
+  text-decoration: none;
+}
+
+.absolute-style{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.capatilized{
+  text-transform: uppercase;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+  .col-3{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    width: 300px;
+  }
+
+}
+
+ul{
+  margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+}
+
+.unstyled-list{
+  li{
+    list-style: none;
+  }
+}
+
+.m-0{
+  margin:0;
+}
+
