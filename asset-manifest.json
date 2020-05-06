@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anjebhandari/anjanabhandari.github.io/static/css/main.ce09ee66.chunk.css",
+    "main.js": "/anjebhandari/anjanabhandari.github.io/static/js/main.32a24f34.chunk.js",
+    "main.js.map": "/anjebhandari/anjanabhandari.github.io/static/js/main.32a24f34.chunk.js.map",
+    "runtime-main.js": "/anjebhandari/anjanabhandari.github.io/static/js/runtime-main.3323366a.js",
+    "runtime-main.js.map": "/anjebhandari/anjanabhandari.github.io/static/js/runtime-main.3323366a.js.map",
+    "static/js/2.ebcdef8a.chunk.js": "/anjebhandari/anjanabhandari.github.io/static/js/2.ebcdef8a.chunk.js",
+    "static/js/2.ebcdef8a.chunk.js.map": "/anjebhandari/anjanabhandari.github.io/static/js/2.ebcdef8a.chunk.js.map",
+    "index.html": "/anjebhandari/anjanabhandari.github.io/index.html",
+    "precache-manifest.fd769e95ef6b167c7947decef0f247e1.js": "/anjebhandari/anjanabhandari.github.io/precache-manifest.fd769e95ef6b167c7947decef0f247e1.js",
+    "service-worker.js": "/anjebhandari/anjanabhandari.github.io/service-worker.js",
+    "static/css/main.ce09ee66.chunk.css.map": "/anjebhandari/anjanabhandari.github.io/static/css/main.ce09ee66.chunk.css.map",
+    "static/js/2.ebcdef8a.chunk.js.LICENSE.txt": "/anjebhandari/anjanabhandari.github.io/static/js/2.ebcdef8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3323366a.js",
+    "static/js/2.ebcdef8a.chunk.js",
+    "static/css/main.ce09ee66.chunk.css",
+    "static/js/main.32a24f34.chunk.js"
+  ]
+}

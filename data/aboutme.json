@@ -1,0 +1,14 @@
+[
+  {
+    "title": "About me",
+    "className": "intro-me"
+  },
+  {
+    "title": "Software Engineer",
+    "main": "I'm  currently working as a ELK Stack developer. I work mostly in JavaScript. I've worked as Front end Developer for 10 months before working in Elk."
+  },
+  {
+    "title": "Computer Student",
+    "main": "I am a BSC.CSIT graduate. I graduated from Madan Bhandari Memorial College in 2017."
+  }
+]

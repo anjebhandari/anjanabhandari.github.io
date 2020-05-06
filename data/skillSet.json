@@ -1,0 +1,38 @@
+[
+  {
+    "name": "HTML 5",
+    "what": "For me HTML is the stepping stone towards my career.",
+    "why": "When i first started my college, I was not sure what programming language to learn, so I started HTML5",
+    "when": "around 5 years ago"
+  },
+  {
+    "name": "CSS",
+    "what": "CSS is like make up for Html, to make attractive HTML I learned it.",
+    "why": "After HTML it was the only way for me to go.",
+    "when": "around 5 years ago"
+  },
+  {
+    "name": "Bootstrap",
+    "what": "I used Bootstrap to make my sites responsible and use grid from.",
+    "why": "I needed css framework to make my HTML site little attractive so I started learing Bootstrap.",
+    "when": "around 4 years ago"
+  },
+  {
+    "name": "ELK Stack",
+    "what": "Open source projects: Elasticsearch, Logstash and Kibana",
+    "why": "I'm working as ELK Stack developer.",
+    "when": "6 months ago"
+  },
+  {
+    "name": "React JS",
+    "what": "JavaScript is bae",
+    "why": "Present is React",
+    "when": "Around 2 years ago"
+  },
+  {
+    "name": "Vue JS",
+    "what": "JavaScript is bae",
+    "why": "I worked on a project and fell in love with Vue.",
+    "when": "Around a year ago"
+  }
+]
