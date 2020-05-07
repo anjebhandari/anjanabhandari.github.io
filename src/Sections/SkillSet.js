@@ -10,7 +10,7 @@ class SkillSet extends Component {
   }
 
   componentDidMount = () => {
-    fetch('http://localhost:3000/data/skillSet.json', {
+    fetch('./data/skillSet.json', {
       method: 'GET'
     })
       .then(response => { return response.json() })
@@ -29,8 +29,8 @@ class SkillSet extends Component {
           <span className="capatilized skill-title"> {skill.name} </span>
           <ul className="unstyled-list skill-list">
             <li>{skill.what}</li>
+            <li>{skill.why}</li>
             <li>{skill.when}</li>
-            <li>A</li>
           </ul>
         </div>
       )

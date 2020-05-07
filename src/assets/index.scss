@@ -61,3 +61,27 @@ ul{
   margin:0;
 }
 
+.form-row{
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+  .form-row-item{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  label{
+    font-size: 16px;
+    line-height: 16px;
+  }
+  input{
+    line-height: 30px;
+    &:focus{
+      border-color: #fa574f;
+    }
+  }
+}
+
+.fa{
+  @import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+  color: $softWhite;
+}

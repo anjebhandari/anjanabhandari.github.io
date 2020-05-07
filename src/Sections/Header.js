@@ -11,7 +11,7 @@ class Header extends Component {
   }
 
   componentDidMount = () => {
-    fetch("http://localhost:3000/data/header.json", {
+    fetch("./data/header.json", {
       method: 'GET'
     }).then(response => {
       return response.json();

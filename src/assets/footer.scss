@@ -1,0 +1,35 @@
+@import './index.scss';
+@import './colors';
+
+$footer-color: #242424;
+.footer{
+  background-color: $footer-color;
+  padding: 10px;
+  height: 25vh;
+}
+.hireme-row{
+  margin:0;
+  padding: 20px;
+  padding-bottom: 0px;
+  // height: 25vh;
+  color: #FFFFFF;
+}
+
+.followme-row{
+  color: $softWhite;
+}
+.collabrate{
+  font-size: 30px;
+  font-weight: 300;
+  position: relative;
+  margin-bottom: 15px;;
+}
+.hide{
+  display: none;
+}
+
+.show{
+  display:block;
+  position: relative;
+  color: #FFFFFF;
+}

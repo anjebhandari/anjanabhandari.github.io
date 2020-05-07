@@ -9,7 +9,7 @@ class AboutMe extends Component {
     }
   }
   componentDidMount = () => {
-    fetch("http://localhost:3000/data/aboutme.json", {
+    fetch("./data/aboutme.json", {
       method: "GET"
     })
       .then(response => { return response.json() })
